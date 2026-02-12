@@ -1,7 +1,9 @@
 streamlit
 sentence-transformers
 faiss-cpu
-transformers
+transformers>=4.36.0
+sentencepiece
+torch
 torch
 accelerate
 pymupdf
