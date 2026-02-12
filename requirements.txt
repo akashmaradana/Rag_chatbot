@@ -7,4 +7,5 @@ torch
 torch
 accelerate
 pymupdf
+protobuf
 numpy
