@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 import torch
 
-model_id = "google/flan-t5-base"
+model_id = "google/flan-t5-small"
 
 def get_llm_pipeline():
     """
